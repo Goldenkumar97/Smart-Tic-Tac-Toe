@@ -142,5 +142,4 @@ Steps
 
 ## Images
 
-
 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe/tree/main/Images
