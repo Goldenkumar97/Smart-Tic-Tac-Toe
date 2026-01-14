@@ -133,11 +133,17 @@ Steps
 ---
 ## 📂 Project Structure
     cpp
-    Smart-Tic-Tac-Toe/
-    │
+    Smart-Tic-Tac-Toe
+    ├── README.md
     ├── SmartTicTacToe.java
-    ├── SmartTicTacToe.class
-    └── README.md
+    └── Images/
+        ├── screenshot1.png
+        ├── screenshot2.png
+        ├── screenshot3.png
+        ├── screenshot4.png
+        ├── screenshot5.png
+        └── screenshot6.png
+        
 ---
 
 ## Images
