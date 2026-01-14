@@ -1,4 +1,4 @@
-### 🎮 Smart Tic-Tac-Toe (Java Swing)
+# 🎮 Smart Tic-Tac-Toe (Java Swing)
 
 ## ✅ Repository Clone
 Use this command to clone my project locally:
